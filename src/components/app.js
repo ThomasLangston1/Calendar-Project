@@ -12,13 +12,14 @@ export default class App extends Component {
 
         <div className="calendar-wrapper">
           <div className="days-wrapper">
-
+              
           </div>
           <div className="blocks-wrapper">
 
           </div>
 
         </div>
+
         <div className="footer">
           <h1>2019</h1>
         </div>
